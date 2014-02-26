@@ -1,0 +1,1 @@
+The code needed to run the Tetris player is in the "Tetris" folder. The training code has been commented out, and the test code has been compiled into an executable called "run_tetris.jar", which runs our policy with the weights trained from cross-entropy. Our report is in "Tetris.pdf". Our Video is in "Tetris.avi".
